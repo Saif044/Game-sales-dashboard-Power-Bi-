@@ -23,6 +23,6 @@ This project involves a **Power BI Dashboard** built to analyze video game sales
 - **Excel Data Source**: Raw data used for analysis and visualization preparation.  
 
 ## 🖼️ Preview  
-*Include a screenshot or GIF of your dashboard here to give visitors a visual overview.*
+![Dashboard Preview](./Dashboard.gif)
 
 
